@@ -1,3 +1,4 @@
+/*Basics*/
 body, html {
   margin: 0;
   padding: 0;
@@ -25,13 +26,7 @@ ul {
   margin: 0;
 }
 
-
-/*
- *
- * Common
- * 
- */
-
+/*Common*/
 .news__more {
   float: right;
   font-size: .8em;
@@ -39,13 +34,7 @@ ul {
   text-decoration: none;
 }
 
-
-/*
- *
- * Header
- *
- */
-
+/*Header*/
 .header {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
   min-height: 56px;
@@ -73,13 +62,7 @@ ul {
   color: #212121;
 }
 
-
-/*
- *
- * Top Level Navigation
- *
- */
-
+/*Top Level Navigation*/
 .nav {
   width: 100%;
   margin-left: auto;
@@ -113,13 +96,7 @@ ul {
   color: #212121;
 }
 
-
-/*
- *
- * Main
- *
- */
-
+/*Main*/
 main {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
   width: 100%;
@@ -127,19 +104,9 @@ main {
   margin-right: auto;
 }
 
-/*
- *
- * Content
- *
- */
+/*Content*/
 
-
-/*
- *
- * Hero
- *
- */
-
+/*Hero*/
 .hero {
   width: 100%;
   position: relative;
@@ -160,13 +127,7 @@ main {
   padding: 1em;
 }
 
-
-/*
- *
- * Top News
- *
- */
-
+/*Top News*/
 .top-news {
   height: 300px;
   border-bottom: 1px solid #E0E0E0;
@@ -205,13 +166,7 @@ main {
   text-decoration: underline;
 }
 
-
-/*
- *
- * Sport Scores
- *
- */
-
+/*Sport Scores*/
 .scores {
   padding-top: 1em;
 }
@@ -253,12 +208,7 @@ main {
   text-align: center;
 }
 
-/*
- *
- * Weather
- *
- */
-
+/*Weather*/
 .weather {
   padding: 1em;
 }
@@ -306,13 +256,7 @@ main {
   width: 100%;
 }
 
-
-/*
- *
- * Recent News
- *
- */
-
+/*Recent News*/
 .recent-news {
   clear: both;
   padding: 1em;
@@ -344,13 +288,7 @@ main {
   text-decoration: underline;
 }
 
-
-/*
- *
- * Footer
- *
- */
-
+/*Footer*/
 footer {
   border-top: 1px solid #E0E0E0;
   padding: 1em;
