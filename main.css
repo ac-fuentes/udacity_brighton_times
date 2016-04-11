@@ -296,15 +296,19 @@ footer {
   width: 100%;
 }
 
+footer > ul {
+  display: flex;
+  justify-content: space-around;
+}
+
 footer li {
-  display: inline-block;
+  flex: 0 1 auto;
   margin: 0 1em;
 }
 
 footer a {
   text-decoration: none;
   color: #333;
-  padding: 1.5em;
 }
 
 /*Media queries*/
