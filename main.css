@@ -313,3 +313,30 @@ footer a {
     display: none;
   }
 }
+
+@media screen and (min-width: 650px){
+  .content{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .hero{
+    width: 50%;
+    order: 0;
+  }
+  .top-news{
+    width: 50%;
+    order: 1;
+  }
+  .scores{
+    width: 66%;
+    order: 2;
+  }
+  .weather{
+    width: 34%;
+    order: 3;
+  }
+  .recent-news{
+    width: 100%;
+    order: 4;
+  }
+}
