@@ -329,15 +329,15 @@ footer a {
   }
   .top-news{
     width: 50%;
-    order: 1;
-  }
-  .scores{
-    width: 66%;
     order: 2;
   }
-  .weather{
-    width: 34%;
+  .scores{
+    width: 50%;
     order: 3;
+  }
+  .weather{
+    width: 50%;
+    order: 1;
   }
   .recent-news{
     width: 100%;
