@@ -1,4 +1,4 @@
-This repository contains work I completed while going through Udacity's Responsive Design course.
+This repository contains work I completed while going through Udacity's Responsive Design course
 
 Highlights:
 
