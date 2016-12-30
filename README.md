@@ -1,25 +1,28 @@
-This repository contains work I completed while going through Udacity's Responsive Design course.
+# Brighton Times Homepage
 
-Highlights:
+This repository contains work I completed as a part of Udacity's Responsive Design course.
 
-  * Responsive design principles
-    - Let content dictate layout
-    - Think mobile first
-  * Responsive design patterns
-    - Column drop
-    - Mostly fluid
-    - Shifting layout
-    - Off canvas
-  * Media queries
-  * Bootstrap
-  * CSS3 flexbox layout mode
+## Viewing the Page
+[html preview](https://htmlpreview.github.io/?https://github.com/anthonyfuentes/udacity_brighton_times/blob/master/index.html)
 
-Minor points:
+## Highlights
+* Responsive design principles
+  - Let content dictate layout
+  - Think mobile first
+* Responsive design patterns
+  - Column drop
+  - Mostly fluid
+  - Shifting layout
+  - Off canvas
+* Media queries
+* Bootstrap
+* CSS3 flexbox layout mode
 
-  * Typography basics
-    - Leading
-    - Measure
-  * Tap targets basics
-  * Hardware pixels vs. density independent pixels
-  * USB debugging
-  * Responsive tables
+## Minor points
+* Typography basics
+  - Leading
+  - Measure
+* Tap targets basics
+* Hardware pixels vs. density independent pixels
+* USB debugging
+* Responsive tables
